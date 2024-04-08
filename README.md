@@ -1,5 +1,5 @@
 # 📃 About Me:
-Hi! 🖐 I'm Gabriel, a Software Developer with more than 9 years of experience.<br>Currently a Javascript developer and a Typescript lover ❤.
+Hi! 🖐 I'm Gabriel, a Software Developer with more than 10+ years of experience.<br>Currently a Javascript developer and a Typescript lover ❤.
 
 
 ## 🌐 Contact me:
